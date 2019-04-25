@@ -1,0 +1,6 @@
+name: talk
+version: 0.0.0
+description: UDP-based protocol for discovering and talking to nearby devices.
+publish_to: none
+dependencies:
+  buffer: ^1.0.0
